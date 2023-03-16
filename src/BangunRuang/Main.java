@@ -1,3 +1,6 @@
+//Amalia Putri Latifah
+//123210109
+
 package BangunRuang;
 
 import java.util.Scanner;
